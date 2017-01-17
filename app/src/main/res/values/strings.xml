@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">WordCounter</string>
+    <string name="app_name">WordCount</string>
+    <string name="main_screen_name">Word Counter</string>
+    <string name="question">Enter your text here.</string>
+    <string name="shake">Enter</string>
+    <string name="computer_message">Compter says...</string>
 </resources>
